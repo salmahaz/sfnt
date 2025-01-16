@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins } from 'next/font/google';
 import "./globals.css";
-import Footer from "./components/Footer";
+import Footer from "./components/atoms/Footer";
 import NavBar from "./components/atoms/NavBar";
 
 /*const geistSans = Geist({
