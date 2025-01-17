@@ -8,6 +8,7 @@ export default function NavBar(){
                 <li className="hover:text-gray-500"><Link href="/">Home</Link></li>
                 <li className="hover:text-gray-500"><Link href="/about">About</Link></li>
                 <li className="hover:text-gray-500"><Link href="/profile">Profile</Link></li>
+                <li className="hover:text-gray-500"><Link href="/categories">Categories</Link></li>
                 
             </ul>
             </nav>
